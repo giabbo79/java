@@ -1,0 +1,2 @@
+dependencies: 
+  - recipe: java::default
